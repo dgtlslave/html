@@ -1,0 +1,22 @@
+.container{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+  font-family: 14px/1.3 Arial, sans-serif;
+  color: #000305;
+  background: #ccc;
+  margin: 0 auto;
+}
+a{
+  color: #C74451;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+.logo small{
+  display: block;
+}
+‪
